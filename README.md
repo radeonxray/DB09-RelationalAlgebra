@@ -28,10 +28,10 @@ where
 
 ### Assignment 1 And 2
 
-![latex](https://latex.codecogs.com/svg.latex?\Pi_{customerName,office\\_city}(\rho_{office\\_city/office.city}(\sigma_{salesRepEmployeeNumber=employeeNumber}(customers^{122}\times%20(employees^{23}\bowtie%20offices^{7})^{23})^{2806})^{14}))
+![latex](https://latex.codecogs.com/svg.latex?\Pi_{customerName,office\\_city}(\rho_{office\\_city/office.city}(\sigma_{salesRepEmployeeNumber=employeeNumber}(customers^{119}\times%20(employees^{21}\bowtie%20offices^{6})^{22})^{2806})^{13}))
 
 -----
 
 ### Assignment 3
 
-![latex](https://latex.codecogs.com/svg.latex?\Pi_{customerName,office\\_city}(\rho_{office\\_city/office.city}((\sigma_{salesRepEmployeeNumber=employeeNumber}(customers^{122}\times%20employees^{23}))^{14}\bowtie%20offices^{7})^{14}))
+![latex](https://latex.codecogs.com/svg.latex?\Pi_{customerName,office\\_city}(\rho_{office\\_city/office.city}((\sigma_{salesRepEmployeeNumber=employeeNumber}(customers^{119}\times%20employees^{21}))^{14}\bowtie%20offices^{6})^{22}))
